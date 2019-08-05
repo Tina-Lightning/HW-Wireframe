@@ -39,8 +39,7 @@ aside {
     height: 255px;
 }
 footer {
-    clear: left;
+    clear: both;
     margin-top: 10px;
     width: 940px;
-    float: left;
 }
